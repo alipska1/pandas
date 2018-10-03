@@ -1,0 +1,2 @@
+# pandas
+Ćwiczenia z pandas
